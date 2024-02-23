@@ -26,15 +26,15 @@
         <input type="text" name="email"  class="form-control" id="exampleInputAddress">
     </div>
     <div class="form-group">
-        <label for="exampleInputAddres">Date End</label>
+        <label for="exampleInputAddres">date</label>
         <input type="text" name="date"  class="form-control" id="exampleInputAddres">
     </div>
     <div class="form-group">
-        <label for="exampleInputAddr">Date End</label>
+        <label for="exampleInputAddr">Address</label>
         <input type="text" name="address"  class="form-control" id="exampleInputAddr">
     </div>
     <div class="form-group">
-        <label for="exampleInputAddre">Date End</label>
+        <label for="exampleInputAddre">phone</label>
         <input type="text" name="phone"  class="form-control" id="exampleInputAddre">
     </div>
 

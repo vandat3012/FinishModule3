@@ -17,7 +17,7 @@
 
 <table class="table" border="1px">
     <thead>
-    <h1 align="center" class="">LIST ASSIGNMENT</h1>
+    <h1 align="center" class="">LIST </h1>
     <tr>
         <th scope="col">STT</th>
         <th scope="col">NAME</th>
